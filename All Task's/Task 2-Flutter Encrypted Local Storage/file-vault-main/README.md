@@ -32,7 +32,8 @@ If you lose your password, your files cannot be recovered—no backdoors, no tri
 1. Install [Flutter](https://flutter.dev/docs/get-started/install) (latest stable)
 2. Clone this repo and enter the folder:
    ```sh
-   git clone https://github.com/tanguyhardion/file-vault.git
+   git clone [https://github.com/tanguyhardion/file-vault.git](https://github.com/Huzaifa2k1/App-Development_Training/tree/b2b5cf38a6b0569b4077b1fac46923b6e7b11d14/All%20Task's/Task%202-Flutter%20Encrypted%20Local%20Storage/file-vault-main)
+   
    cd file-vault
    ```
 3. Get dependencies:
