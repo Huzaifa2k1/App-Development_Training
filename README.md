@@ -1,4 +1,4 @@
-# 📱 [App Name] - Mobile Application
+# 📱 [App Development] - Mobile Application
 
 [![Platform](https://img.shields.io/badge/Platform-Flutter%20%7C%20React%20Native-blue.svg)](https://flutter.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
